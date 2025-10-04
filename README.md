@@ -41,3 +41,4 @@ python main.py
 - PySide6 6.8.2.1
 - ConfigParser 7.2.0
 - Google Icons
+- auto-py-to-exe 2.47.0
