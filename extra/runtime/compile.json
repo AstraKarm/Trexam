@@ -1,0 +1,101 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "D:/Projects/Trexam/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "D:/Projects/Trexam/extra/runtime/icon.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "Trexam"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/data_handler.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/download_handler.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/extensions.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/find.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/mainwindow.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/settings.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/ui_find.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/ui_mainwindow.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "D:/Projects/Trexam/src/ui_settings.py;."
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
